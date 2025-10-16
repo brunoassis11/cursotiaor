@@ -1,0 +1,16 @@
+=== RELATÓRIO COMPLETO DE MOVIMENTAÇÕES DE INSUMOS ===
+
+Insumo: a
+Quantidade atual: 11.0 a
+Validade: 10-10-2010
+Fornecedor: a
+Histórico:
+  - 15-10-2025 | Entrada | Quantidade: 11.0
+
+Insumo: s
+Quantidade atual: 11.0 s
+Validade: 10-10-2025
+Fornecedor: 1
+Histórico:
+  - 15-10-2025 | Entrada | Quantidade: 11.0
+
